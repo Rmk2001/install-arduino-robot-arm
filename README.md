@@ -49,12 +49,6 @@ $ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 The robot arm has 5 joints only 4 joints can be fully controlled via ROS and Rviz, the last joint (gripper) has a default motion executed from the Arduino code directly.
 
 
-### Circuit diagram 
-![circuit](circuit.png)
-
-
-### Robot initial positions
-![positions](positions.png)
 
 
 ## Configuring Arduino with ROS
